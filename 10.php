@@ -17,7 +17,7 @@
 class Chien {
 //propriétés:
      public $couleur_des_yeux;
-     public $couleur_de_nez;
+     public $nez;
      public $couleur_du_fourrure;
 
 // Methods
