@@ -34,21 +34,22 @@ if($greenship=="sale"){
 	$number=5;
 	switch ($number) {
 		case 5:
+		echo "regim";
 		break;	
-			echo "regim";
 		case 4:
+		echo "bon alimentation";
 		break;
-			echo "bon alimentation";
 		case 3:
+		echo "hydtatation de la peau";
 		break;
-			echo "hydtatation de la peau";
 		case 2:
+		echo"sport";
 		break;	
-			echo"sport";
 		case 1:
+		echo "la marche";
 		break;
-		default;	
-			echo"jouer";
+		default:	
+		echo"jouer";
 	}
 /*  
 
